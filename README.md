@@ -4,6 +4,8 @@
 **Favk/Favk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## GitHub Stats
+![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -25,5 +27,4 @@ Here are some ideas to get you started:
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/favour-kolade/).
 - 😄 Pronouns: She / Her
 
-## GitHub Stats
-![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
+
