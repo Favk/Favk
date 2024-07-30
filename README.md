@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 - 🚀 Actively working on projects that involve web development, mobile apps, and cloud technologies.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/favour-kolade/).
 - 😄 Pronouns: She / Her
+- 📫 Website: [Portfolio](https://favour-kolade-portfolio.vercel.app/)
 
 
