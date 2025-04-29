@@ -18,7 +18,7 @@ GitHub Stats
 # Hi there, I'm Favour Kolade 👋
 
 GitHub Stats
-[[Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk)](https://github.com/Favk/github-readme-stats)
+[![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)](https://github.com/Favk/github-readme-stats)
 
 
 ## About Me
