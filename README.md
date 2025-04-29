@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 GitHub Stats
-![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
+[Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,6 +16,9 @@ GitHub Stats
 -->
 
 # Hi there, I'm Favour Kolade 👋
+
+GitHub Stats
+[Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
 
 ## About Me
 - 🎓 Recent Software Engineering graduate from the University of Texas at Arlington.
