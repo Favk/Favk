@@ -18,7 +18,8 @@ GitHub Stats
 # Hi there, I'm Favour Kolade 👋
 
 GitHub Stats
-[Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
+[[Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk)](https://github.com/Favk/github-readme-stats)
+
 
 ## About Me
 - 🎓 Recent Software Engineering graduate from the University of Texas at Arlington.
