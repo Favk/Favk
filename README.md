@@ -5,6 +5,10 @@ Here are some ideas to get you started:
 GitHub Stats
 [Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)
 
+My GitHub Stats
+
+[![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)](https://github.com/Favk/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,10 +20,6 @@ GitHub Stats
 -->
 
 # Hi there, I'm Favour Kolade 👋
-
-My GitHub Stats
-
-[![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favk&show_icons=true&theme=radical)](https://github.com/Favk/github-readme-stats)
 
 
 ## About Me
